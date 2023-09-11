@@ -1,0 +1,272 @@
+[
+    {
+        "note": "dog and cat - 1",
+        "cls1": "dog",
+        "ins1_path": "./instance/dog",
+        "cls2": "cat",
+        "ins2_path": "./instance/cat",
+        "text_path": "./prompt/two-objects.txt"
+    },
+    {
+        "note": "dog and cat - 2",
+        "cls1": "dog",
+        "ins1_path": "./instance/dog2",
+        "cls2": "cat",
+        "ins2_path": "./instance/cat2",
+        "text_path": "./prompt/two-objects.txt"
+    },
+    {
+        "note": "dog and cat - 3",
+        "cls1": "dog",
+        "ins1_path": "./instance/dog3",
+        "cls2": "cat",
+        "ins2_path": "./instance/cat3",
+        "text_path": "./prompt/two-objects.txt"
+    },
+    {
+        "note": "cat and cat - 1",
+        "cls1": "cat",
+        "ins1_path": "./instance/cat",
+        "cls2": "cat",
+        "ins2_path": "./instance/cat2",
+        "text_path": "./prompt/two-objects.txt"
+    },
+    {
+        "note" : "cat and cat - 2",
+        "cls1": "cat",
+        "ins1_path": "./instance/cat",
+        "cls2": "cat",
+        "ins2_path": "./instance/cat3",
+        "text_path": "./prompt/two-objects.txt"
+    },
+    {
+        "note": "cat and cat - 3",
+        "cls1": "cat",
+        "ins1_path": "./instance/cat2",
+        "cls2": "cat",
+        "ins2_path": "./instance/cat3",
+        "text_path": "./prompt/two-objects.txt"
+    },
+    {
+        "note": "dog and dog - 1",
+        "cls1": "dog",
+        "ins1_path": "./instance/dog",
+        "cls2": "dog",
+        "ins2_path": "./instance/dog2",
+        "text_path": "./prompt/two-objects.txt"
+    },
+    {
+        "note": "dog and dog - 2",
+        "cls1": "dog",
+        "ins1_path": "./instance/dog3",
+        "cls2": "dog",
+        "ins2_path" : "./instance/dog4",
+        "text_path": "./prompt/two-objects.txt"
+    },
+    {
+        "note": "dog and dog - 3",
+        "cls1": "dog",
+        "ins1_path": "./instance/dog5",
+        "cls2": "dog",
+        "ins2_path": "./instance/dog6",
+        "text_path": "./prompt/two-objects.txt"
+    },
+    {
+        "note": "dog and dog - 4",
+        "cls1": "dog",
+        "ins1_path": "./instance/dog7",
+        "cls2": "dog",
+        "ins2_path": "./instance/dog8",
+        "text_path": "./prompt/two-objects.txt"
+    },
+    {
+        "note": "cat and toy - 1",
+        "cls1": "cat",
+        "ins1_path": "./instance/cat",
+        "cls2": "toy",
+        "ins2_path": "./instance/duck_toy",
+        "text_path": "./prompt/two-objects.txt"
+    },
+    {
+        "note":"cat and toy - 2",
+        "cls1": "cat",
+        "ins1_path": "./instance/cat2",
+        "cls2": "toy",
+        "ins2_path": "./instance/robot_toy",
+        "text_path": "./prompt/two-objects.txt"
+    },
+    {
+        "note": "dog and toy - 1",
+        "cls1": "dog",
+        "ins1_path": "./instance/dog9",
+        "cls2": "toy",
+        "ins2_path": "./instance/duck_toy",
+        "text_path": "./prompt/two-objects.txt"
+    },
+    {
+        "note": "dog and toy - 2",
+        "cls1": "dog",
+        "ins1_path": "./instance/dog6",
+        "cls2": "toy",
+        "ins2_path": "./instance/robot_toy",
+        "text_path": "./prompt/two-objects.txt"
+    },
+    {
+        "note": "toy and toy - 1",
+        "cls1": "toy",
+        "ins1_path": "./instance/duck_toy",
+        "cls2": "toy",
+        "ins2_path": "./instance/robot_toy"
+    },
+    {
+        "note": "toy and toy - 2",
+        "cls1": "toy",
+        "ins1_path": "./instance/robot_toy",
+        "cls2": "toy",
+        "ins2_path": "./instance/rc_car"
+    },
+    {
+        "note": "3 cats",
+        "cls1": "cat",
+        "ins1_path": "./instance/cat",
+        "cls2": "cat",
+        "ins2_path": "./instance/cat2",
+        "cls3": "cat",
+        "ins3_path": "./instance/cat3",
+        "text_path": "./prompt/three-objects.txt"
+    },
+    {
+        "note": "3 dogs - 1",
+        "cls1": "dog",
+        "ins1_path": "./instance/dog",
+        "cls2": "dog",
+        "ins2_path": "./instance/dog2",
+        "cls3": "dog",
+        "ins3_path": "./instance/dog3",
+        "text_path": "./prompt/three-objects.txt"
+    },
+    {
+        "note": "3 dogs - 2",
+        "cls1": "dog",
+        "ins1_path": "./instance/dog4",
+        "cls2": "dog",
+        "ins2_path": "./instance/dog5",
+        "cls3": "dog",
+        "ins3_path": "./instance/dog6"
+    },
+    {
+        "note": "3 dogs - 3",
+        "cls1": "dog",
+        "ins1_path": "./instance/dog7",
+        "cls2": "dog",
+        "ins2_path": "./instance/dog8",
+        "cls3": "dog",
+        "ins3_path": "./instance/dog9",
+        "text_path": "./prompt/three-objects.txt"
+    },
+    {
+        "note": "3 toys",
+        "cls1": "toy",
+        "ins1_path": "./instance/duck_toy",
+        "cls2": "toy",
+        "ins2_path": "./instance/robot_toy",
+        "cls3": "toy",
+        "ins3_path": "./instance/rc_car",
+        "text_path": "./prompt/three-objects.txt"
+    },
+    {
+        "note": "bear and bear",
+        "cls1": "bear",
+        "ins1_path": "./instance/bear1",
+        "cls2": "bear",
+        "ins2_path": "./instance/bear2",
+        "text_path": "./prompt/two-humans.txt"
+    },
+    {
+        "note": "man and man - 1",
+        "cls1": "man",
+        "ins1_path": "./instance/man8",
+        "cls2": "man",
+        "ins2_path": "./instance/man9",
+        "text_path": "./prompt/two-humans.txt"
+    },
+    {
+        "note": "man and man - 2",
+        "cls1": "man",
+        "ins1_path": "./instance/man10",
+        "cls2": "man",
+        "ins2_path": "./instance/man11",
+        "text_path": "./prompt/two-humans.txt"
+    },
+    {
+        "note": "man and man - 3",
+        "cls1": "man",
+        "ins1_path": "./instance/man12",
+        "cls2": "man",
+        "ins2_path": "./instance/man13",
+        "text_path": "./prompt/two-humans.txt"
+    },
+    {
+        "note": "woman and woman - 1",
+        "cls1": "woman",
+        "ins1_path": "./instance/woman6",
+        "cls2": "woman",
+        "ins2_path": "./instance/woman7",
+        "text_path": "./prompt/two-humans.txt"
+    },
+    {
+        "note": "woman and woman - 2",
+        "cls1": "woman",
+        "ins1_path": "./instance/woman8",
+        "cls2": "woman",
+        "ins2_path": "./instance/woman9",
+        "text_path": "./prompt/two-humans.txt"
+    },
+    {
+        "note": "woman and woman - 3",
+        "cls1": "woman",
+        "ins1_path": "./instance/woman10",
+        "cls2": "woman",
+        "ins2_path": "./instance/woman11",
+        "text_path": "./prompt/two-humans.txt"
+    },
+    {
+        "note": "three man",
+        "cls1": "man",
+        "ins1_path": "./instance/man8",
+        "cls2": "man",
+        "ins2_path": "./instance/man11",
+        "cls3": "man",
+        "ins3_path": "./instance/man13",
+        "text_path": "./prompt/three-humans.txt"
+    },
+    {
+        "note": "man man woman",
+        "cls1": "man",
+        "ins1_path": "./instance/man8",
+        "cls2": "man",
+        "ins2_path": "./instance/man11",
+        "cls3": "woman",
+        "ins3_path": "./instance/woman6",
+        "text_path": "./prompt/three-humans.txt"
+    },
+    {
+        "note": "man woman woman",
+        "cls1": "man",
+        "ins1_path":"./instance/man7",
+        "cls2": "woman",
+        "ins2_path": "./instance/woman7",
+        "cls3": "woman",
+        "ins3_path": "./instance/woman8",
+        "text_path": "./prompt/three-humans.txt"
+    },
+    {
+        "note": "three woman",
+        "cls1":"woman",
+        "ins1_path": "./instance/woman6",
+        "cls2":"woman",
+        "ins2_path": "./instance/woman10",
+        "cls3":"woman",
+        "ins3_path":"./instance/woman14"
+    }
+]

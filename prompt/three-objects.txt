@@ -1,0 +1,31 @@
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3}.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} in the jungle.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} on the beach.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are running along the great wall.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are walking in a snowy wonderland.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are playing under the eiffel tower.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are swimming in a pond. 
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are standing atop a hill, overlooking a breathtaking sunrise.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are having a picnic in a lush, sun-dappled meadow.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are walking along a flower-lined courtyard pathway.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are playing basketball together.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are playing guitar in the Times Square.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are playing soccer in the park.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are sleeping together on a couch.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are playing chess.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are running under Khufu Pyramid.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are surfing on the sea.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are taking a walk in outer space.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are wearing black hats and sunglasses.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are wearing yellow bows and pink dresses.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are building a sand castle on the beach.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are coding together in front of a computer screen.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are practising piano together in a music room.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are doing chemistry experiments in a laboratory.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are dressed in formal clothes in a church.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are taking a photo in front of a fountain.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are playing with a ball together.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are driving a car in the desert.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are making a snowman together in the snow.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are wearing yellow hats and scarves.
+A {token1} {class1}, a {token2} {class2} and a {token3} {class3} are chasing butterflies in the sunset field. 
